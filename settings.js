@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['212614352139'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
+global.ownername = "H4SS4NXDEV❤️" //ur owner name
+global.ytname = "YT: H4SS4N.EXE" //ur yt chanel name
+global.socialm = "GitHub: hassanxdev" //ur github or insta name
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
 global.ownernomer = "212614352139" //ur number
 global.premium = ['212614352139'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
+global.botname = 'H4SS4NXBOT❤️' //ur bot name
+global.linkz = "https://t.me/eyexofficial" //your theme url which will be displayed on whatsapp
+global.websitex = "https://telegra.ph/file/70a7fc13196dd7eddd98a.png" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
+global.packname = "⍣H4SS4NXBOT⍣" //ur sticker watermark packname
 global.author = "⍣212614352139⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.wm = "certified by hassanxdev." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -40,7 +40,7 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'تم يروحي✨',
+    success: 'Done✨',
     admin: '『 الامر دا لادمن بس! 』',
     botAdmin: '『 ارفع البوت ادمن الاول 』',
     premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
